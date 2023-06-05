@@ -1,0 +1,15 @@
+{
+  "name": "block18",
+  "version": "1.0.0",
+  "description": "set a test environment based on jess framework",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jess": "^1.0.8-alpha.8"
+  }
+}
